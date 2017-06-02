@@ -1,0 +1,5 @@
+input.textbox {
+  height: 3em;
+  width: 30em;
+  word-break: break-word;
+}
